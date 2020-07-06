@@ -36,7 +36,12 @@ const siteContent = {
     "copyright" : "Copyright Great Idea! 2018"
   },
 };
+//console log test
+console.log('Hello! This is a test! If you see me, this is working~!')
 
 // Example: Update the img src for the logo
 let logo = document.getElementById("logo-img");
-logo.setAttribute('src', siteContent["nav"]["img-src"])
+logo.setAttribute('src', siteContent["nav"]["img-src"]);
+
+//Query Selectors here
+
